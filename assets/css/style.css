@@ -15,9 +15,9 @@ header {
     
 }
 
-.logo__img {
-    width: 130px;
-    height: 90px;
+.logo__img--principal {
+    width: 150px;
+    height: 100px;
     
 }
 
@@ -159,12 +159,12 @@ footer {
 
 
     .logo__img {
-        width: 200px;
-        height: 200px;
+        width: 180px;
+        height: 120px;
     }
 
     .menu {
-        margin-top: 5rem
+        margin-top: 4rem
     }
 
     .menu-redesocial {
@@ -179,7 +179,7 @@ footer {
 
     /* sobre mim mobile */
     .conteudo-sobre__paragrafo {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         line-height: 2.5rem;
     }
 
